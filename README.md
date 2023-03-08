@@ -16,8 +16,9 @@ chmod u+x main.py
 
 And to see the results, you can open the `universities.csv` file with any CSV reader available.
 
-
+```
 TODO: Error handling
 TODO: Tests, Tests and Tests
 TODO: More tests
 TODO: Create a Makefile and include all the steps required to run the code
+```
